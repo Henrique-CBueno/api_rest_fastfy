@@ -1,0 +1,5 @@
+DB/*.db
+node_modules
+.env
+.env.test
+dist
